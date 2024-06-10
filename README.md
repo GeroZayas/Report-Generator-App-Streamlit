@@ -3,7 +3,7 @@
 - The Report Generator App is a powerful tool that allows you to create custom reports based on your data.
 - It uses **Streamlit**
 
-## sing Docker
+## Using Docker
 
 If you prefer using Docker, you can build and run the application with the provided Dockerfile. First, ensure you have Docker installed on your system.
 
