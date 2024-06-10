@@ -3,7 +3,10 @@ from docxtpl import DocxTemplate
 import os
 import sys
 from pathlib import Path
-import time
+
+# import time
+
+st.set_page_config(page_title="Futur Idiomes - Report Generator", page_icon="📑")
 
 
 def resource_path(relative_path):
